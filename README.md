@@ -1,5 +1,6 @@
 # i_am_rich
 
+![Uploading Screenshot_20240923_083401.png…]()
 
 
 I Am Rich Project
