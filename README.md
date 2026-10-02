@@ -14,6 +14,21 @@
 
 ---
 
+## 📲 Try it · امتحانش کنید
+
+| 🌐 **Live demo** · دموی آنلاین | **[ParsaFathii.github.io/i_am_rich](https://ParsaFathii.github.io/i_am_rich/)** — runs right in the browser, no install needed · مستقیم در مرورگر اجرا می‌شود، بدون نصب |
+| 🤖 **Android APK** · نسخهٔ اندروید | **[Latest release](https://github.com/ParsaFathii/i_am_rich/releases/latest)** — download `app-release.apk` · فایل `app-release.apk` را دانلود کنید |
+
+---
+
+## 📸 Screenshots · اسکرین‌شات‌ها
+
+<p align="center">
+  <img src="docs/images/home.png" width="240" alt="i_am_rich — The classic I Am Rich screen — a glowing gem">
+</p>
+
+---
+
 ## 🇬🇧 English
 
 One of the very first Flutter apps I ever built — the famous **"I Am Rich"** app from the classic Flutter bootcamp curriculum. It deliberately does almost nothing: it shows a diamond. And that's exactly why it's a great first app — it teaches you that *any* UI, no matter how simple, is built from the same three building blocks: **widgets, layout, and assets**.
